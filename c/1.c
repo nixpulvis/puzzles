@@ -7,7 +7,7 @@ int main()
 {
     int d;
 
-    for(d=-1;d <= (TOTAL_ELEMENTS-2);d++)
+    for(d=-1;d <= ((int)TOTAL_ELEMENTS-2);d++)
         printf("%d\n",array[d+1]);
 
     return 0;
