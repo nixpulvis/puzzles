@@ -14,3 +14,5 @@ int main()
         }while(false);
         return 0;
 }
+
+// prints 1.
